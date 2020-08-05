@@ -4,7 +4,7 @@ import os
 
 # code by lbdbcx/huyufeifei
 # don't add headers in requests, or the response can't be encode!!!!!!!!!!!!!!!
-# I don't know why the param "size2000:true" doesn't work. If you know, please tell me, thank you!!!
+# I don't know why the param "size1200:true" doesn't work. If you know, please tell me, thank you!!!
 
 param = {
     'apikey' : '', # please go to 'https://api.lolicon.app/#/setu' to get apikey
